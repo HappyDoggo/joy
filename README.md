@@ -1,9 +1,9 @@
-![](http://ncase.me/joy/social/thumbnail.png)
+![Bob Ross is painting. Overlay text reads "Joy.js: Make Happy Little Programs."](http://ncase.me/joy/social/thumbnail.png)
 
 **JOY.JS, VERSION ZERO (the crappy version)**
 
-What the heck is Joy.js? [Check this!](http://ncase.me/joy/)
+[What the heck is Joy.js?](http://ncase.me/joy/)
 
-Want to get started with Joy.js? [Read this!](http://ncase.me/joy/getting-started/)
+Want to [get started with Joy.js?](http://ncase.me/joy/getting-started/)
 
 Joy.js is [public domain, yo](https://creativecommons.org/publicdomain/zero/1.0/)
